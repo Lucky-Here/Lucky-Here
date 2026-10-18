@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my DSA Skills<br>👯 I’m looking to collaborate on Projects and Idea’s<br>🤝 I’m looking for help with Carrier Guidence<br>🌱 I’m currently learning DSA in C++<br>💬 Ask me about Tech<br>⚡ "A jack of all trades is a master of none, but oftentimes better than a master of one."<br>#Instagram : @lucky.by.chance
+🔭 Currently working on my DSA Skills<br>👯 I’m looking to collaborate on Projects and Idea’s<br>🤝 I’m looking for help with Carrier Guidence<br>🌱 I’m currently learning DSA in Java<br>💬 Ask me about Tech<br>⚡ "A jack of all trades is a master of none, but oftentimes better than a master of one."<br>#Instagram : @lucky.by.chance
 
 
 ## 🌐 Socials:
